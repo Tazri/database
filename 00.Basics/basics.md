@@ -14,5 +14,5 @@ Here documented basic DBMS concept line by line. Below the table of content.
 <hr />
 <br />
 
-[< Go Back README File](./../README.md) | [Data Models >](./../01.data_models/data_models.md)
+[< Go Back README File](./../README.md) | [Data Models >](./../01.Data_models/data_models.md)
 ----------------------------------------
